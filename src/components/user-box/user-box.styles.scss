@@ -1,0 +1,14 @@
+.user-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border-bottom:2px solid black;
+    height: 10%;
+
+
+    &:hover{
+        cursor: pointer;
+        background-color: lightgray
+    }
+}

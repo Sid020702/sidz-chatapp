@@ -1,0 +1,7 @@
+const FriendsActionTypes = {
+    FETCH_FRIENDS_START: 'FETCH_FRIENDS_START',
+    FETCH_FRIENDS_SUCCESS: 'FETCH_FRIENDS_SUCCESS',
+    FETCH_FRIENDS_FAIL: 'FETCH_FRIENDS_FAIL'
+}
+
+export default FriendsActionTypes

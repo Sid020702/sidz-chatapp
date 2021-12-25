@@ -1,0 +1,37 @@
+.display-messages{
+
+    margin: 20px 15px;
+        
+    .right{
+        float: right;
+        
+        max-width: 45%;
+        margin: 10px 4px;
+        border:2px solid black;
+        padding:2px 0;
+        padding-left: 10px;
+        padding-right:5px;
+        border-radius: 12px;
+        clear: both;
+
+    }
+
+    .left{
+        float:left;
+        max-width: 45%;
+        margin: 50px 20px;
+        border:2px solid black;
+        padding:2px 0;
+        padding-right:10px;
+        padding-left: 5px;
+        border-radius: 12px;
+        clear: both;
+        
+    }
+
+    .visibility{
+        display:block
+    }
+
+    
+}

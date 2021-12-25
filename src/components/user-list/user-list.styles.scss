@@ -1,0 +1,19 @@
+.user-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    // justify-content: space-evenly;
+    width: 30%;
+    height: 100%;
+    overflow-y: scroll;
+
+    h2{
+        border:2px solid black;
+        width: 95%;
+        min-height: 10%;
+        text-align: center;
+        border-radius: 9px;
+        margin-bottom: 20px;
+    }
+    
+}
